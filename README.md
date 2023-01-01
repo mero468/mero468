@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
-<h3 align="center">A passionate software developer from Jordan, I am a 3rd year student in Dokuz eylul University. I am passionate about Front end development, Game development and Android development.</h3>
+<h3 align="center">A passionate software developer from Jordan, I am a 3rd year student in Dokuz eylul University. I am passionate about Web-development and Mobile Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mero468&label=Profile%20views&color=0e75b6&style=flat" alt="mero468" /> </p>
 
