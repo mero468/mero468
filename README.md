@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ammar Atoum, a Jordanian Full-stack Web and Mobile Developer</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ammar Atoum</h1>
+<h3 align="center">a Jordanian Full-stack Web and Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mero468&label=Profile%20views&color=0e75b6&style=flat" alt="mero468" /> </p>
 
