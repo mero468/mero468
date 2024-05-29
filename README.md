@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar Atoum</h1>
-<h3 align="center">a Jordanian Full-stack Web and Mobile Developer</h3>
+<h3 align="center">Full-stack Web and Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mero468&label=Profile%20views&color=0e75b6&style=flat" alt="mero468" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **sushivibe**
 
-- 💬 Ask me about **react, Html, Css and Django Framework**
+- 💬 Ask me about **React,React native, Html, Css and Django Framework**
 
 - 📫 How to reach me **ammarkaid321@gmail.com**
 
